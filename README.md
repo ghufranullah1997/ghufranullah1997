@@ -25,11 +25,10 @@ Here are some ideas to get you started:
 ### 👨‍💻 About Me
 
 - 🎓 Master's in Data Analytics, University of Turku, Finland  
-- 🎓 Master's & Bachelor's in Computer Science, Aligarh Muslim University (GPA 8.8/10)  
+- 🎓 Master's & Bachelor's in Computer Science, Aligarh Muslim University
 - 🧪 Research areas: NLP, Sentiment Analysis, Hate Speech Detection, Computer Vision  
-- 💼 Experience in real-time medical imaging (Aneurysm analysis) and education data prediction
+- 💼 Experience in real-time medical imaging and education data prediction
 
-> “Simplicity is the soul of efficiency.” – Austin Freeman
 
 ---
 
@@ -75,11 +74,31 @@ Here are some ideas to get you started:
 <p align="center">📍 *Currently based in Turku, Finland*</p>
 
 
+#####################################
+## 🔬 Research & Projects
+
+- **Islamophobic Tweet Detection using Transfer Learning**  
+  `ULMFiT | Sentiment Analysis | Text Classification`  
+  Developed a dataset using Academic Twitter API and built a multi-label classifier for categorizing tweets into Islamophobic, racist, or neutral.  
+  📄 [IEEE CSI-2022 Conference Paper](https://ieeexplore.ieee.org/abstract/document/9923957)
+
+- **Suicidal Tweet Detection**  
+  `NLP | Tweet Scraping | Mental Health AI`  
+  Scraped 10,000+ tweets, ongoing annotation phase in collaboration with Department of Psychology, AMU.
+
+- **Face Mask Detection & Person Identification**  
+  `CNN | Computer Vision | InsightFace`  
+  Presented at IICS-2021.  
+  📄 [Springer Chapter](https://link.springer.com/chapter/10.1007/978-981-19-8136-4_10)
+
+- **Rotten & Diseased Potato Classifier**  
+  `Image Classification | CV | TensorFlow`  
+  Achieved 97% accuracy.  
+  📄 [IEEE Sustainability Conference 2022](https://www.researchgate.net/publication/368243308)
 
 
 
-
-
+#######################################
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ghufranullah1997/ghufranullah1997/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ghufranullah1997/ghufranullah1997/output/github-snake.svg" />
