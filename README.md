@@ -1,23 +1,9 @@
-## Hi there 👋
 
-<!--
-**ghufranullah1997/ghufranullah1997** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 
 <h1 align="center">Hi there 👋, I'm Ghufran Ullah</h1>
 <p align="center">
-  <em>MSc Data Analytics student at the University of Turku | Former Data Scientist Intern at The Sparks Foundation | Researcher in NLP and Computer Vision</em>
+  <em>MSc Data Analytics student at the University of Turku, Finland | Researcher in NLP and Computer Vision</em>
 </p>
 
 ---
@@ -71,7 +57,7 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">📍 *Currently based in Turku, Finland*</p>
+[![Download CV](https://img.shields.io/badge/Download%20CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader)](https://github.com/YOUR_USERNAME/YOUR_REPO/raw/main/CV.pdf)
 
 
 
