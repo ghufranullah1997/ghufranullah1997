@@ -1,7 +1,7 @@
 
 
 
-<h1 align="center">Hi there 👋, I'm Ghufran Ullah</h1>
+<h1 align="center">Hi there 👋, I'm Ghufran</h1>
 <p align="center">
   <em>MSc Data Analytics student at the University of Turku, Finland | Researcher in NLP and Computer Vision</em>
 </p>
@@ -41,6 +41,17 @@
 
 ---
 
+### 📌 Important Coursework
+
+- [Statistical Data Analysis](https://github.com/ghufranullah1997/Statistical_Data_Analysis.git)
+- [Human Language Technology](https://github.com/ghufranullah1997/IHLT_notebooks.git)
+- [Machine Learning and Pattern Recognition](https://github.com/ghufranullah1997/Machine_Learning_and_Pattern_Recognition.git)
+- [Data Analysis and Knowledge Discovery](https://github.com/ghufranullah1997/Data_Analysis_and_Knowledge_Discovery.git)
+- [Evaluation of Machine Learning Models](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models.git)
+- [Deep Learning](https://github.com/ghufranullah1997/Deep_Learning.git)
+- [Textual Data Analysis](https://github.com/ghufranullah1997/Textual_Data_Analysis.git)
+  
+---
 ### 📊 GitHub Stats
 
 <p align="left">
