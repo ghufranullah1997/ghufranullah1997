@@ -34,10 +34,13 @@
 
 ### 📌 Featured Projects
 
+[Demographic and Behavioural Patterns in Daily Time Use: A Statistical Data Analysis Approach](https://github.com/ghufranullah1997/Statistical_Data_Analysis/tree/main/Project)
+
 - 🔍 [Islamophobic Tweet Detection Using Transfer Learning](https://github.com/ghufranullah1997/islamophobia_tweet.git)
 - 🧠 [Suicidal Tweet Detection with NLP](https://github.com/ghufranullah1997/suicidal-tweet-detection)
 - 🥔 [Diseased and Rotten Potato Classification](https://github.com/ghufranullah1997/Potato-Disease-and-Rotten-Classification)
 - 😷 [Rapid Face Mask Detection & Person Identification](https://github.com/ghufranullah1997/Rapid-Face-Mask-Detection)
+-     []
 
 ---
 
