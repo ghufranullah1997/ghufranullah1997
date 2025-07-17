@@ -35,7 +35,7 @@
 ### 📌 Featured Projects
 
 [Demographic and Behavioural Patterns in Daily Time Use: A Statistical Data Analysis Approach](https://github.com/ghufranullah1997/Statistical_Data_Analysis/tree/main/Project)
-
+[Experimental Evaluation of CNN Performance on Reduced CIFAR-100](https://github.com/ghufranullah1997/Deep_Learning/tree/main/Project)
 - 🔍 [Islamophobic Tweet Detection Using Transfer Learning](https://github.com/ghufranullah1997/islamophobia_tweet.git)
 - 🧠 [Suicidal Tweet Detection with NLP](https://github.com/ghufranullah1997/suicidal-tweet-detection)
 - 🥔 [Diseased and Rotten Potato Classification](https://github.com/ghufranullah1997/Potato-Disease-and-Rotten-Classification)
