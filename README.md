@@ -26,7 +26,7 @@ Here are some of the things I’ve built, broken, and fixed again:
 
 - 📈 [Time Use Analysis](https://github.com/ghufranullah1997/Statistical_Data_Analysis/tree/main/Project) – crunching patterns in daily routines
 - 🧪 [CNN on CIFAR-100](https://github.com/ghufranullah1997/Deep_Learning/tree/main/Project) – tested CNNs on reduced datasets
-- 💧 [Water Quality Prediction](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/tree/main/Project/Project%201) – used regression models to guess metal ion concentration
+- 💧  [Water Quality Prediction](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/tree/main/Project/Project%201) – used regression models to guess metal ion concentration
 - ⚗️ [Drug-Target Affinity Estimation](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/tree/main/Project/Project%203) – smarter validation = better science
 - 🔍 [Islamophobic Tweet Detection](https://github.com/ghufranullah1997/islamophobia_tweet.git) – fine-tuned transformer model
 - 🧠 [Suicidal Tweet Classifier](https://github.com/ghufranullah1997/suicidal-tweet-detection) – NLP + mental health awareness
