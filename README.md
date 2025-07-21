@@ -1,19 +1,22 @@
 <h1 align="center">Hey there 👋 I'm Ghufran</h1>
 <p align="center">
-  MSc Data Analytics @ University of Turku 🇫🇮 | I explore cool problems in NLP, CV & ML 📊🤖
+  MSc Data Analytics @ University of Turku 🇫🇮 | I like to explore problems in applied AI, NLP, & ML 📊
 </p>
 
 ---
 
 ### 🧠 A Little About Me
 
-- 🏫 Currently figuring out data, pixels, and language at the University of Turku
-- 🎓 Have a double degree in Computer Science from Aligarh Muslim University (yes, I liked it that much)
-- 🧪 I’ve worked on projects like:
-  - Making sense of hateful and suicidal tweets (using transfer learning)
-  - Teaching a model to spot rotten potatoes (🥔 vs 🤢)
-  - Real-time medical imaging with deep learning (heart stuff 🫀)
-- 🛠️ Tools I vibe with: `Python`, `TensorFlow`, `OpenCV`, `Sklearn`, `NumPy`, `Keras`, `Matplotlib`
+- 🏫 Currently making sense of data, pixels, and Finnish 🇫🇮 at the University of Turku
+- 🎓 Earned a double degree in Computer Science from Aligarh Muslim University (yeah, I went back for more)
+- 🧪 Built stuff like:
+  - A model to detect hateful and suicidal tweets (NLP + transfer learning)
+  - A potato inspector 🍟 (trained to tell healthy vs rotten)
+  - Real-time heart imaging using deep learning (🫀 work that actually beats)
+- 🛠️ I usually hang out with: `Python`, `TensorFlow`, `OpenCV`, `Sklearn`, `NumPy`, `Keras`, `Matplotlib`
+- 🌐 Currently building my personal website
+- 📬 You can always reach me at **ghufranullah.amu@gmail.com**
+
 
 ---
 
