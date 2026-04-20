@@ -30,10 +30,6 @@ Here are some of the things I’ve built, broken, and fixed again (Some link mig
 - ⚗️ [Drug-Target Affinity Estimation](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/tree/main/Project/Project%203) – smarter validation = better science
 - 🔍 [Islamophobic Tweet Detection](https://github.com/ghufranullah1997/islamophobia_tweet.git) – fine-tuned transformer model
 <!- 
-- 🧠 [Suicidal Tweet Classifier](https://github.com/ghufranullah1997/suicidal-tweet-detection) – NLP + mental health awareness
-- 🥔 [Potato Disease Detection](https://github.com/ghufranullah1997/Potato-Disease-and-Rotten-Classification) – CV model trained to tell if your fries are in danger
-- 😷 [Mask Detection + Person ID](https://github.com/ghufranullah1997/Rapid-Face-Mask-Detection) – COVID times, fast and lightweight
->
 
 ---
 
