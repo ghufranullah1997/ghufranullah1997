@@ -33,7 +33,7 @@ Here are some of the things I’ve built, broken, and fixed again (Some link mig
 
 ---
 
-### 📚 Coursework You Might Like
+### 📚 Some of most recent coursework I have completed
 
 Here’s what I’ve been studying and tinkering with:
 
