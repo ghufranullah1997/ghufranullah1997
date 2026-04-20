@@ -22,7 +22,7 @@
 
 ### 🚀 Projects That Actually Work
 
-Here are some of the things I’ve built, broken, and fixed again:
+Here are some of the things I’ve built, broken, and fixed again (Some link might not be working ):
 
 - 📈 [Time Use Analysis](https://github.com/ghufranullah1997/Statistical_Data_Analysis/tree/main/Project) – crunching patterns in daily routines
 - 🧪 [CNN on CIFAR-100](https://github.com/ghufranullah1997/Deep_Learning/tree/main/Project) – tested CNNs on reduced datasets
@@ -32,7 +32,7 @@ Here are some of the things I’ve built, broken, and fixed again:
 - 🧠 [Suicidal Tweet Classifier](https://github.com/ghufranullah1997/suicidal-tweet-detection) – NLP + mental health awareness
 - 🥔 [Potato Disease Detection](https://github.com/ghufranullah1997/Potato-Disease-and-Rotten-Classification) – CV model trained to tell if your fries are in danger
 - 😷 [Mask Detection + Person ID](https://github.com/ghufranullah1997/Rapid-Face-Mask-Detection) – COVID times, fast and lightweight
-
+[//]: # (Hello )
 
 
 ---
@@ -46,7 +46,6 @@ Here’s what I’ve been studying and tinkering with:
 - [🧠 Machine Learning + Pattern Recognition](https://github.com/ghufranullah1997/Machine_Learning_and_Pattern_Recognition.git)
 - [🔍 Evaluation of ML Models](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models.git)
 - [🧠 Deep Learning](https://github.com/ghufranullah1997/Deep_Learning.git)
-- [📖 Textual Data Analysis](https://github.com/ghufranullah1997/Textual_Data_Analysis.git)
 
 ---
 
