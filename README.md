@@ -7,13 +7,13 @@
 
 ### 🧠 A Little About Me
 
-- 🏫 Currently making sense of data, pixels, and Finnish 🇫🇮 at the University of Turku
+- 🏫 Currently making sense of data, LLMs and Finnish 🇫🇮 at the University of Turku
 - 🎓 Earned a double degree in Computer Science from Aligarh Muslim University (yeah, I went back for more)
 - 🧪 Built stuff like:
   - A model to detect hateful and suicidal tweets (NLP + transfer learning)
-  - A potato inspector 🍟 (trained to tell healthy vs rotten)
-  - Real-time heart imaging using deep learning (🫀 work that actually beats)
-- 🛠️ I usually hang out with: `Python`, `TensorFlow`, `OpenCV`, `Sklearn`, `NumPy`, `Keras`, `Matplotlib`
+  - Image classification model for identifying diseased and healthy potatoes
+  - Real-time medical image analysis for heart conditions using deep learning
+- 🛠️ I usually work with: `Python`, `TensorFlow`, `OpenCV`, `Scikit-learn`, `NumPy`, `Keras`, `Matplotlib` — powered by coffee ☕
 - 🌐 Currently building my personal website
 - 📬 You can always reach me at **ghufranullah.amu@gmail.com**
 
