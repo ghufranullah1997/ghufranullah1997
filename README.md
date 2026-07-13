@@ -24,7 +24,7 @@
 ### 🚀 Projects That Actually Work
 
 Here are some of the things I’ve built, broken, and fixed again (Some link might not be working):
-- 🧬 [Synthetic Tabular Data Generation](https://github.com/ghufranullah1997/synthetic_data/tree/main)– comparing private and non-private data generators using repeated experiments, fidelity metrics, and different privacy settings
+- 🧬 [Synthetic Tabular Data Generation](https://github.com/ghufranullah1997/synthetic_data_generation)– comparing private and non-private data generators using repeated experiments, fidelity metrics, and different privacy settings
 - 🌍 [US Emissions Dashboard](https://github.com/ghufranullah1997/power_bi_dashboards) – cleaned and analysed 2023 US emissions data using Databricks SQL and created an interactive dashboard with KPIs and filters
 - 📊 [Power BI Dashboards](https://github.com/ghufranullah1997/power_bi_dashboards) – built two dashboards using SQL, Power Query, DAX, relational data models, drill-downs, and performance KPIs
 - 📈 [Time Use Analysis](https://github.com/ghufranullah1997/Statistical_Data_Analysis/tree/main/Project) – crunching patterns in daily routines
