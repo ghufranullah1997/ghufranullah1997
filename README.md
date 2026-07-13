@@ -97,15 +97,6 @@ Here’s what I’ve been studying and tinkering with:
 </p>
 
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ghufranullah1997&show_icons=true&theme=default&hide=issues&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ghufranullah1997&layout=compact&theme=default" height="150"/>
-</p>
-
----
-
 ### 🔗 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ghufranullah1997/)
