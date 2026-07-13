@@ -8,22 +8,24 @@
 ### 🧠 A Little About Me
 
 - 🏫 Currently making sense of data, LLMs and Finnish 🇫🇮 at the University of Turku
+- 🔬 Finishing my thesis on synthetic tabular data, differential privacy, and model evaluation
 - 🎓 Earned a double degree in Computer Science from Aligarh Muslim University (yeah, I went back for more)
 - 🧪 Built stuff like:
+  - Power BI dashboards and a Databricks dashboard for detecting emission usning US emissions data
   - A model to detect hateful and suicidal tweets (NLP + transfer learning)
   - Image classification model for identifying diseased and healthy potatoes
   - Real-time medical image analysis for heart conditions using deep learning
-- 🛠️ I usually work with: `Python`, `TensorFlow`, `OpenCV`, `Scikit-learn`, `NumPy`, `Keras`, `Matplotlib` — powered by coffee ☕
-- 🌐 Currently building my personal website
+- 🛠️ I usually work with: `Python`, `SQL`, `Power BI`, `TensorFlow`, `OpenCV`, `Scikit-learn`, `Matplotlib` — powered by coffee ☕
+- 🌐 Currently learning Microsoft Azure and cloud data engineering building my personal website
+- 🔍 Open to Data Analyst, Data Scientist, ML Engineer, and Data Engineer roles
 - 📬 You can always reach me at **ghufranullah.amu@gmail.com**
-
-
 ---
 
 ### 🚀 Projects That Actually Work
 
-Here are some of the things I’ve built, broken, and fixed again (Some link might not be working ):
-
+Here are some of the things I’ve built, broken, and fixed again (Some link might not be working):
+- 🌍 [US Emissions Dashboard](https://github.com/ghufranullah1997/synthetic_data/tree/main) – cleaned and analysed 2023 US emissions data using Databricks SQL and created an interactive dashboard with KPIs and filters
+- 📊 [Power BI Dashboards](https://github.com/ghufranullah1997/power_bi_dashboards) – built two dashboards using SQL, Power Query, DAX, relational data models, drill-downs, and performance KPIs
 - 📈 [Time Use Analysis](https://github.com/ghufranullah1997/Statistical_Data_Analysis/tree/main/Project) – crunching patterns in daily routines
 - 🧪 [CNN on CIFAR-100](https://github.com/ghufranullah1997/Deep_Learning/tree/main/Project) – tested CNNs on reduced datasets
 - 💧  [Water Quality Prediction](https://github.com/ghufranullah1997/Evaluation_of_Machine_Learning_Models/tree/main/Project/Project%201) – used regression models to guess metal ion concentration
